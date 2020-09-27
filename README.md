@@ -1,4 +1,4 @@
-<bold>Pixel Perfect.</bold> To check it:
+<bold>Pixel Perfect.</bold> Please pay attention, that your screen width should be at least <bold>1600px.</bold> To check it:
 
 1. install [perfect pixel extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
 
